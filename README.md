@@ -1,5 +1,6 @@
 # WeAct-CH552-Volume-controller
-USB volume controller and play/pause on WeAct CH552 microcontroler
+USB volume controller and play/pause on WeAct CH552 microcontroler.
+
 Program for Arduino development platform.
 To setup Arduino addons, follow official instructions:
 https://github.com/WeActStudio/WeActStudio.CH552CoreBoard/tree/master/SDK/02-ArduinoExample
