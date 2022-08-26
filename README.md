@@ -5,6 +5,9 @@ Program for Arduino development platform.
 To setup Arduino addons, follow official instructions:
 https://github.com/WeActStudio/WeActStudio.CH552CoreBoard/tree/master/SDK/02-ArduinoExample
 
+To compile this program, check Tools -> USB Settings -> USER CODE w/ 148B USB ram
+
+
 After uploading this script it will start using USB for media keys emulation. So, in order to re-upload, you'll have to enter boot mode again.
 To enter boot mode, press P36 button and replug the device.
 
